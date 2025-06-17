@@ -190,6 +190,10 @@ body {
     max-height: 350px;
   }
 
+  .box a {
+    width: 40%;
+  }
+
   .boxes {
     flex-direction: row;
     flex-wrap: wrap;
